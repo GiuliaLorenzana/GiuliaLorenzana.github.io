@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting my work in [Young Seminars SIFS](https://www.fisicastatistica.org/young-seminars-sifs)
+Presenting my work at [Young Seminars SIFS](https://www.fisicastatistica.org/young-seminars-sifs).
