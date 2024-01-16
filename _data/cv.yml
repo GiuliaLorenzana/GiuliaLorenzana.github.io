@@ -56,7 +56,7 @@
         - Master 1 internship (5 months)
         - Final grade 19/20, paper under review
     - title: Interaction between water flow and surface waves
-      institution: LPENS
+      institution: LPENS, Paris, France
       year: 2018-2019
       description:
         - Supervised by Francois Petrelis and Stephan Perrard
@@ -66,6 +66,7 @@
   type: time_table
   contents:
     - title: Mathematics for Physicists
+      institution: ENS, Paris, France
       year: 2022 - 2024
       description: Teaching Assistant, 40 hours per year, in French
 
@@ -73,10 +74,10 @@
   type: time_table
   contents:
     - title: Microbial community ecology: bridging theory and observations
-      institution: Max Planck Institute, Plön
+      institution: Max Planck Institute, Plön, Germany
       year: 2023
    
-- title: Honors and Awards
+- title: Awards and Scholarships
   type: time_table
   contents:
     - year: 1921
