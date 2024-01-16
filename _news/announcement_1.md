@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting at STATPHYS28
+Presenting at [STATPHYS28](https://confit.atlas.jp/guide/event/statphys28/subject/T4-09B-04/advanced)
