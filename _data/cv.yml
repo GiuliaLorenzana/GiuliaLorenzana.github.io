@@ -1,4 +1,4 @@
-- title: General Information
+e- title: General Information
   type: map
   contents:
     - name: Full Name
@@ -30,26 +30,23 @@
       year: 2016 - 2019
       description: 
         - Final grade 110/100 with honors
-- title: Experience
+- title: Research internships
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Role of spatial structure in random Lotka-Volterra model 
+      institution: LPENS, MSC
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Supervised by Giulio Biroli and Ada Altieri
+        - 10 months
+        
+    - title: 		Final grade: 19/20, results published in Phys.Rev.E.}
+      institution: MSC
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
+        - Supervised by Ada Altieri
+        - Master 2 internship (3 months)
+        
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
