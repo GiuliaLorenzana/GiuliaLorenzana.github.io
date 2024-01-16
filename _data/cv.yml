@@ -12,21 +12,11 @@
   type: time_table
   contents:
     - title: PhD
-      institution: LPENS & MSC, Paris, France
+      institution: LPENS, MSC, Paris, France
       year: 2022 - 2025
       description:
         - Spatially extended many-species heterogeneous ecosystems 
         - Supervised by Giulio Biroli, Ada Altieri
-    - title: Diplome de l'ENS
-      institution: ENS, Paris, France
-      year: 2019 - 2022
-      description:
-        - some description
-      - title: Master in Theoretical Physics
-      institution: ENS, Paris, France
-      year: 2019 - 2021
-      description: 
-        - Average grade 17.58/20 (mention très bien)
 
 - title: Experience
   type: time_table
