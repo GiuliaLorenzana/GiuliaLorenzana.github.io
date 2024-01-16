@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. ENS
+subtitle: <a href='#'>[ENS](https://www.ens.psl.eu/)</a>. 
 
 profile:
   align: right
