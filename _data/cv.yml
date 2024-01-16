@@ -25,7 +25,11 @@
       year: 2019 - 2021
       description: 
         - Average grade 17.58/20 (mention très bien)
-
+    - title: Bachelor in Physics
+      institution: La Sapienza, Rome
+      year: 2016 - 2019
+      description: 
+        - Final grade 110/100 with honors
 - title: Experience
   type: time_table
   contents:
