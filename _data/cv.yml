@@ -13,14 +13,11 @@
   contents:
     - title: PhD
       institution: LPENS, MSC
-      year: 2022-2025
+      year: 2022 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Spatially extended many-species heterogeneous ecosystems 
+        - Supervisors: Giulio Biroli, Ada Altieri
+
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
