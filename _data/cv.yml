@@ -22,11 +22,13 @@
       institution: ENS, Paris, France
       year: 2019 - 2022
       description:
+        - 
           
       - title: Master in Theoretical Physics
       institution: ENS, Paris, France
       year: 2019 - 2021
-      description: Average grade: 17.58/20 (mention très bien)
+      description: 
+        - Average grade 17.58/20 (mention très bien)
 
 - title: Experience
   type: time_table
