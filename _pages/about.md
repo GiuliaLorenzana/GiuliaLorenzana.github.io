@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.ens.psl.eu/">ENS</a>
+subtitle: PhD student at <a href="https://www.ens.psl.eu/">École Normale Supérieure</a> and <a href="https://u-paris.fr/en/">Université Paris Cité</a> 
 
 profile:
   align: right
