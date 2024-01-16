@@ -62,13 +62,20 @@
         - Supervised by Francois Petrelis and Stephan Perrard
         - 7 weeks
 
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Mathematics for Physicists
+      year: 2022 - 2024
+      description: Teaching Assistant, 40 hours per year, in French
 
+- title: Workshop organization
+  type: time_table
+  contents:
+    - title: Microbial community ecology: bridging theory and observations
+      institution: Max Planck Institute, Plön
+      year: 2023
+   
 - title: Honors and Awards
   type: time_table
   contents:
