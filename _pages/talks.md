@@ -5,7 +5,6 @@ permalink: /talks/
 description: Here you can see the talks I have given
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 
