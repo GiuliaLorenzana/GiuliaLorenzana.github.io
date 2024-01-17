@@ -20,4 +20,5 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a PhD student in Theoretical Physics between the [Disordered Systems](https://www.lpens.ens.psl.eu/research/phystat/systemes-desordonnes-applications/?lang=en) group at [Laboratoire de Physique de l'École Normale Supérieure](https://www.lpens.ens.psl.eu/) and the [Theory of Complex Systems](https://sites.google.com/view/theory-of-complex-systems/welcome) group in the [Laboratoire de Matière et Systèmes Complexes](https://fr.u-paris.fr/laboratoires/matiere-et-systemes-complexes) ([Université Paris Cité](https://u-paris.fr/en/)), under the supervision of [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/) and [Ada Altieri](https://www.adaaltieri.com/).
-My main interest is the Statistical Physics of Disordered Systems and its applications to Theoretical Comunity Ecology, with a focus on out-of-equilibrium dynamics.
+
+In my PhD I do back and forth between the Statistical Physics of Disordered Systems and Theoretical Community Ecology. On one hand systems of interacting species can be studied with the tools developed for randomly interacting spins. On the other hand, the dynamics of ecosystems is characterized by non-equilibrium features that are not found in classical disordered systems models, such as non reciprocal interactions and migration. 
