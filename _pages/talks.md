@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/talks.md -->
 <div class="publications">
 
 {% bibliography %}
