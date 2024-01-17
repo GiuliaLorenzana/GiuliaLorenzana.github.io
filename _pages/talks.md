@@ -1,11 +1,15 @@
 ---
-layout: archive-year
-title: Talks
+layout: page
 permalink: /talks/
-description: Here you can see the talks I have given
+title: Talks
+description: Talks
 nav: true
-nav_order: 3
-horizontal: false
+nav_order: 2
 ---
 
-Hello world
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography %}
+
+</div>
