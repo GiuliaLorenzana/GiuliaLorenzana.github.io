@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive-year
 title: Talks
 permalink: /talks/
 description: Here you can see the talks I have given
