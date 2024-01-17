@@ -13,7 +13,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD student in Theoretical Physics between the [Disordered Systems](https://www.lpens.ens.psl.eu/research/phystat/systemes-desordonnes-applications/?lang=en) group at [Laboratoire de Physique de l'École Normale Supérieure](https://www.lpens.ens.psl.eu/) and the [Theory of Complex Systems](https://sites.google.com/view/theory-of-complex-systems/welcome) group in the [Laboratoire de Matière et Systèmes Complexes](https://fr.u-paris.fr/laboratoires/matiere-et-systemes-complexes) ([Université Paris Cité](https://u-paris.fr/en/)), under the supervision of [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/) and [Ada Altieri](https://www.adaaltieri.com/).
