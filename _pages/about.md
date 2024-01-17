@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>L286</p>
-    <p>24 Rue Lhomond</p>
+    <p>L286, 24 Rue Lhomond (ENS) </p>
+    <p>786, 10 rue Alice Domon et Léonie Duquet (UPC)</p>
     <p>Paris, France</p>
 
 news: true # includes a list of news items
@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Theoretical Physics between [Laboratoire de Physique de l'École Normale Supérieure](https://www.lpens.ens.psl.eu/) and [Matière et Systèmes Complexes lab](https://fr.u-paris.fr/laboratoires/matiere-et-systemes-complexes), under the supervision of Giulio Biroli and Ada Altieri. My main interest is the Statistical Physics of Disordered Systems and its applications to Theoretical Ecology, with a focus on out-of-equilibrium dynamics.
+I am a PhD student in Theoretical Physics between [Laboratoire de Physique de l'École Normale Supérieure](https://www.lpens.ens.psl.eu/) and the [Theory of Complex Systems](https://sites.google.com/view/theory-of-complex-systems/welcome) group in [Laboratoire de Matière et Systèmes Complexes](https://fr.u-paris.fr/laboratoires/matiere-et-systemes-complexes) ([Université Paris Cité](https://u-paris.fr/en/)), under the supervision of Giulio Biroli and Ada Altieri. My main interest is the Statistical Physics of Disordered Systems and its applications to Theoretical Ecology, with a focus on out-of-equilibrium dynamics.
