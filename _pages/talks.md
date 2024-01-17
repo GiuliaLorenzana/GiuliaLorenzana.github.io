@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: Talks
 description: Here you can find a complete list of my talks and poster presentations.
-years: [Seminars,Contributed talks,Poster]
+years: [Invited talks, Contributed talks, Poster]
 nav: true
 nav_order: 2
 ---
