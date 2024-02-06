@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: You can also have a look at my <a href="https://scholar.google.fr/citations?user=sc5yAlEAAAAJ&hl=en">scholar profile</a>
+description: 
 nav: true
 nav_order: 2
 ---
