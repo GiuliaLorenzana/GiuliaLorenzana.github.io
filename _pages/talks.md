@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: Talks
 description:
-years: [Invited talks, Contributed talks, Poster]
+years: [Invited talks, Seminars, Contributed talks, Poster]
 nav: true
 nav_order: 2
 ---
