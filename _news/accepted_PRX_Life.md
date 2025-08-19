@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper out on [PRX Life](https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.013014)!
+Paper out on [PRX Life](https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.013014)
