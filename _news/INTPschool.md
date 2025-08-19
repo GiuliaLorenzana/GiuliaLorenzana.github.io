@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [INTP Spring School on Mathematical Theory in Community Ecology](https://intp.science/en/events/2025-intp-spring-school-mathematical-theory-in-com) starting today.
+Our [INTP Spring School](https://intp.science/en/events/2025-intp-spring-school-mathematical-theory-in-com) on Mathematical Theory in Community Ecology starting today.
