@@ -8,6 +8,13 @@
     - name: Languages
       value: Italian, Spanish, English, French
 
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Postodctoral Fellowship
+      institution: NITMB, Chicago, USA
+      year: 2025 - present
+
 - title: Education
   type: time_table
   contents:
@@ -34,60 +41,64 @@
       institution: La Sapienza, Rome
       year: 2016 - 2019
 
-- title: Research internships
-  type: time_table
-  contents:
-    - title: Role of spatial structure in random Lotka-Volterra model 
-      institution: LPENS, MSC, Paris, France
-      year: 2021 - 2022
-      description:
-        - Supervised by Giulio Biroli and Ada Altieri
-        - 10 months        
-        - Paper under review
-    - title: Strong interactions in random Lotka-Volterra model
-      institution: MSC, Paris, France
-      year: 2021
-      description:
-        - Supervised by Ada Altieri
-        - Master 2 internship (3 months)
-        - Final grade 19/20, results published in PRE
-    - title: Loop expansion for Anderson localization
-      institution: LPTMC, Paris, France
-      year: 2020
-      description:
-        - Supervised by Marco Tarzia
-        - Master 1 internship (5 months)
-        - Final grade 19/20, paper under review
-    - title: Interaction between water flow and surface waves
-      institution: LPENS, Paris, France
-      year: 2018-2019
-      description:
-        - Supervised by Francois Petrelis and Stephan Perrard
-        - 7 weeks
+# - title: Research internships
+#   type: time_table
+#   contents:
+#     - title: Role of spatial structure in random Lotka-Volterra model 
+#       institution: LPENS, MSC, Paris, France
+#       year: 2021 - 2022
+#       description:
+#         - Supervised by Giulio Biroli and Ada Altieri
+#         - 10 months        
+#         - Paper under review
+#     - title: Strong interactions in random Lotka-Volterra model
+#       institution: MSC, Paris, France
+#       year: 2021
+#       description:
+#         - Supervised by Ada Altieri
+#         - Master 2 internship (3 months)
+#         - Final grade 19/20, results published in PRE
+#     - title: Loop expansion for Anderson localization
+#       institution: LPTMC, Paris, France
+#       year: 2020
+#       description:
+#         - Supervised by Marco Tarzia
+#         - Master 1 internship (5 months)
+#         - Final grade 19/20, paper under review
+#     - title: Interaction between water flow and surface waves
+#       institution: LPENS, Paris, France
+#       year: 2018-2019
+#       description:
+#         - Supervised by Francois Petrelis and Stephan Perrard
+#         - 7 weeks
 
 - title: Teaching
   type: time_table
   contents:
+    - title: Electromagnetism
+      institution: CPES, Paris, France
+      year: 2025
+      description: Teaching Assistant, 28 hours per year, in French
     - title: Mathematics for Physicists
       institution: ENS, Paris, France
       year: 2022 - 2024
       description: Teaching Assistant, 40 hours per year, in French
 
-- title: Workshop organization
+- title: Workshop and school organization
   type: time_table
-  contents:
-    - title: Microbial community ecology, bridging theory and observations
-      institution: Max Planck Institute, Plön, Germany
-      year: 2023
-      description: organizer and chair
-      
-    - title: INTP Ecology for Physicists Workshop
+  contents:      
+    - title: INTP Spring School - Mathematical Theory in Community Ecology
       institution: INTP, Surba, France
       year: 2024
       
     - title: From Ecology to Economy and Back
       institution: ENS, FCM, Paris, France
       year: 2024
+
+    - title: Microbial community ecology, bridging theory and observations
+      institution: Max Planck Institute, Plön, Germany
+      year: 2023
+      description: organizer and chair
 
 - title: Awards and Scholarships
   type: time_table
