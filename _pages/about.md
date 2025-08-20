@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow at <a href="https://www.nitmb.org/">NITMB</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GiuliaDolomiti.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
