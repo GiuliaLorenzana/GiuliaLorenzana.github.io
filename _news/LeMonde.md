@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Article on [Le Monde](https://www.lemonde.fr/sciences/article/2024/03/21/la-fontaine-avait-raison-il-faut-cooperer-pour-durer_6223313_1650684.html) about our recent paper.
+Article on [Le Monde](https://www.lemonde.fr/sciences/article/2024/03/21/la-fontaine-avait-raison-il-faut-cooperer-pour-durer_6223313_1650684.html) about our [PRX paper](https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.013014).
