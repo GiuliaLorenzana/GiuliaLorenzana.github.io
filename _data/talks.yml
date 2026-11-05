@@ -1,0 +1,109 @@
+# Talks page data (rendered by _pages/talks.md).
+# Sections appear in this order; talks appear in the order listed (keep newest first).
+# Fields: title, venue, date; optional: video (adds a Video button).
+
+- section: Invited talks
+  talks:
+    - title: "EverEvol – Population dynamics: from rare events to evolution"
+      venue: "Université Grenoble Alpes, France"
+      date: 2026
+    - title: "The Lush World of Random Matrices"
+      venue: "ZiF, Bielefeld, Germany"
+      date: 2025
+    - title: "From Ecology to Economy and Back"
+      venue: "ENS, CFM, Paris, France"
+      date: 2024
+    - title: "Interdisciplinary challenges in non-equilibrium physics: from soft to active, biological and complex matter"
+      venue: "Max Planck Institute, Dresden, Germany"
+      date: 2024
+    - title: "Webinar GDR IDE"
+      venue: "CNRS, Online"
+      date: 2024
+    - title: "SIFS Young Seminar"
+      venue: "Societa Italiana di Fisica Statistica, Online"
+      date: 2024
+      video: https://www.youtube.com/watch?v=AwuMRtXVBww
+
+- section: Seminars
+  talks:
+    - title: "LPTMS Seminar"
+      venue: "Laboratoire de Physique Théorique et Modèles Statistiques, Orsay, France"
+      date: 2026
+    - title: "QBio/FRESK Seminar"
+      venue: "FRESK Paris Santé, Paris, France"
+      date: 2026
+    - title: "Theory Group Seminar"
+      venue: "Institut Curie, Paris, France"
+      date: 2026
+    - title: "Vitelli Group Seminar"
+      venue: "University of Chicago, USA"
+      date: 2024
+    - title: "Nelson Group Seminar"
+      venue: "Harvard, Cambridge, USA"
+      date: 2024
+    - title: "PLS Short Talks"
+      venue: "MIT, Cambridge, USA"
+      date: 2024
+    - title: "Huse Group Seminar"
+      venue: "Princeton University, USA"
+      date: 2024
+    - title: "Seminar at Department of Computing Sciences"
+      venue: "Bocconi University, Milan, Italy"
+      date: 2024
+    - title: "Theory Group Seminar"
+      venue: "Institut Curie, Paris, France"
+      date: 2023
+
+- section: Contributed talks
+  talks:
+    - title: "Non-equilibrium Dynamics, from Active Matter to Evolutionary Dynamics"
+      venue: "KITP, Santa Barbara, USA"
+      date: 2026
+    - title: "Statphys29"
+      venue: "Florence, Italy"
+      date: 2025
+    - title: "Stochastic Models and Experiments in Ecology and Biology"
+      venue: "Gran Sasso Institute, L'Aquila, Italy"
+      date: 2024
+    - title: "Journées de Physique Statistique"
+      venue: "ENS, Paris, France"
+      date: 2024
+    - title: "Statphys28"
+      venue: "University of Tokyo, Japan"
+      date: 2023
+    - title: "YITP-YSF Symposium: Perspectives on Non-Equilibrium Statistical Mechanics"
+      venue: "Kyoto University, Japan"
+      date: 2023
+    - title: "Collective Phenomena in complex systems: problems inspired by Ecology and Evolution"
+      venue: "University of Tokyo, Japan"
+      date: 2023
+    - title: "Paris Biological Physics Community Day"
+      venue: "ENS, Paris, France"
+      date: 2023
+    - title: "Journées de Physique Statistique"
+      venue: "ENS, Paris, France"
+      date: 2023
+    - title: "Eco-evolutionary Dynamics of Microbial Communities Across Scales"
+      venue: "ICTP, Trieste, Italy"
+      date: 2022
+
+- section: Poster
+  talks:
+    - title: "Theory and Mathematics in Neuroscience – Geometry in Neuroscience"
+      venue: "NITMB, Chicago, USA"
+      date: 2026
+    - title: "Bernstein Conference"
+      venue: "Goethe University, Frankfurt am Main, Germany"
+      date: 2026
+    - title: "Spin Glass Theory and High-Dimensional Landscapes in Biology"
+      venue: "NITMB, Chicago, USA"
+      date: 2026
+    - title: "Cargese Summer School"
+      venue: "Cargese, France"
+      date: 2024
+    - title: "Beg Rohu Summer School"
+      venue: "Saint Pierre Quiberon, France"
+      date: "2021-2022-2023-2024"
+    - title: "EverEvol – Population dynamics: from rare events to evolution"
+      venue: "Université Grenoble Alpes, Grenoble, France"
+      date: 2022
