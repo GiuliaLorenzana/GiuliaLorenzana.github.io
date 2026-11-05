@@ -22,20 +22,20 @@
       institution: LPENS, MSC, Paris, France
       year: 2022 - 2025
       description:
-        - Spatially extended many-species heterogeneous ecosystems 
-        - Supervised by Giulio Biroli, Ada Altieri    
+        - Spatially extended many-species heterogeneous ecosystems
+        - Supervised by Giulio Biroli, Ada Altieri
     - title: Diplome de l'ENS
       institution: ENS, Paris, France
       year: 2019 - 2022
     - title: Master in Theoretical Physics
       institution: ENS, Paris, France
       year: 2019 - 2021
-      description: 
+      description:
         - Average grade 17.58/20 (mention très bien)
     - title: Bachelor in Physics
       institution: La Sapienza, Rome
       year: 2016 - 2019
-      description: 
+      description:
         - Final grade 110/100 with honors
     - title: Superior School of Advanced Studies
       institution: La Sapienza, Rome
@@ -44,12 +44,12 @@
 # - title: Research internships
 #   type: time_table
 #   contents:
-#     - title: Role of spatial structure in random Lotka-Volterra model 
+#     - title: Role of spatial structure in random Lotka-Volterra model
 #       institution: LPENS, MSC, Paris, France
 #       year: 2021 - 2022
 #       description:
 #         - Supervised by Giulio Biroli and Ada Altieri
-#         - 10 months        
+#         - 10 months
 #         - Paper under review
 #     - title: Strong interactions in random Lotka-Volterra model
 #       institution: MSC, Paris, France
@@ -86,7 +86,7 @@
 
 - title: Workshop and school organization
   type: time_table
-  contents:      
+  contents:
     - title: INTP Spring School - Mathematical Theory in Community Ecology
       institution: INTP, Surba, France
       year: 2024
@@ -107,14 +107,13 @@
   contents:
     - title: Contrat Doctoral Spécifique Normalienne
       year: 2022-2025
-      
+
     - title: International Selection Scholarship
       year: 2019-2022
-      
+
     - title: Silver Medal in the Italian Mathematical Olympics
       year: 2016
-      
+
     - title: Mediterranean Youth Mathematical Championships
       year: 2016
-      description: Third place as a member of the Italian team 
-
+      description: Third place as a member of the Italian team
