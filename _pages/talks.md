@@ -15,11 +15,9 @@ nav_order: 2
   {% for t in s.talks %}
     <li>
       <div class="row">
-        <div class="col-sm-2 abbr"></div>
-        <div class="col-sm-8">
+        <div class="col-sm-12">
           <div class="title">{{ t.title }}</div>
-          <div class="author">{{ t.date }}</div>
-          <div class="periodical"><em>{{ t.venue }}</em></div>
+          <div class="periodical"><em>{{ t.venue }}</em>, {{ t.date }}</div>
           {% if t.video %}
             <div class="links">
               <a href="{{ t.video }}" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Video</a>
